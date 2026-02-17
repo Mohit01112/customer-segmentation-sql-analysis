@@ -1,0 +1,11 @@
+customer_id,customer_name,order_count,total_spend,customer_tier
+7,"vikram joshi",1,12000.00,gold
+3,"karan mehta",2,9000.00,gold
+9,"arjun nair",1,8000.00,gold
+2,"riya patel",2,7500.00,silver
+4,"sneha reddy",2,7500.00,silver
+6,"pooja singh",1,5000.00,silver
+1,"aman sharma",2,4000.00,bronze
+5,"rahul verma",2,3800.00,bronze
+8,"neha kapoor",1,2200.00,bronze
+10,"meera iyer",1,600.00,bronze
